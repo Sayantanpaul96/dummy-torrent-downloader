@@ -45,19 +45,6 @@ This application is a lightweight, command-line tool designed to download torren
 - **Run the command above to start the download.**
 - **Monitor the console for real-time progress.**
 
-## 📂 Project Structure
-dummy-torrent-downloader/
-│
-├── Screenshots/             # Directory for storing screenshots (optional)
-├── test/                    # Directory for test files
-│
-├── .gitignore               # Specifies files and directories ignored by Git
-├── LICENSE.md               # License file for the project
-├── index.js                 # Main entry point of the application
-├── package-lock.json        # Auto-generated lock file for npm dependencies
-├── package.json             # Project metadata and dependencies
-└── README.md                # Project documentation
-
 ## 📜 License
 This project is licensed under the MIT License.
 
